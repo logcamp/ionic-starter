@@ -17,7 +17,7 @@ minifyCSS = require("gulp-minify-css")
 # =================== #
 #   Configurations
 # =================== #
-app_file_name = "template"
+app_file_name = "app"
 
 base =
   src: 'src'
